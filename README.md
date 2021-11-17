@@ -7,3 +7,6 @@ https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-intera
 
 Vervolgens kun je deze repository binnenhalen en in Visual Studio Code gebruiken als naslagwerk.  
 En heb je toevoegingen, dan kan dat gewoon via een pull request.
+
+De cheat sheet voor Mark Down staat hier:  
+https://www.markdownguide.org/cheat-sheet/
