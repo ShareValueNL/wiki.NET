@@ -1,0 +1,7 @@
+#!markdown
+
+# Azure DevOps Boards
+
+Azure DevOps Boards kan gebruikt worden voor een aantal methoden van software ontwikkeling, zoals Scrum en Kanban.
+De taaknummers kunnen gebruikt worden in Commits in de code door een # code toe te voegen. Wil je een commit linken aan een taak, dan typ je in het commit commentaarveld het nummer met de hash ervoor.
+Bijvoorbeeld: #123 om taak/story 123 te koppelen aan de commit.

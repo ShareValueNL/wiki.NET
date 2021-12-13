@@ -1,0 +1,8 @@
+#!markdown
+
+# Blazor
+
+Blazor is een front end SPA (Single Page Application) en tegenhanger van verschillende JavaScript frameworks zoals Angular, React en Vue.
+Het grote verschil is dat bij Blazor C# als front end taal gebruikt wordt in plaats van JavaScript of TypeScript.
+
+Blazor is er in verschillende vormen. De belangrijkste zijn Blazor Server en Blazor Web Assembly.

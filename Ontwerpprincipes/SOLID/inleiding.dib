@@ -1,0 +1,33 @@
+#!markdown
+
+# SOLID
+
+Letter | Staat voor | Concept
+S | SRP | Single responsibility principle
+O | OCP | Open/closed principle
+L | LSP | Liskov substitution principle
+I | ISP | Interface segregation principle
+D | DIP | Dependency inversion principle
+
+## Single responsibility principle
+
+In tegenstelling tot wat veel ontwikkelaars denken, is SRP in SOLID niet het principe dat een klasse of functie één verantwoordelijkheid heeft. SRP in SOLID betekent dat de verantwoordelijkheid van het veranderen van een module bij 1 actor ligt. Een module kan zo simpel zijn als een klasse maar dit kan ook een groep van klasses zijn binnen een package.
+
+## Open/closed principle
+
+“software-entiteiten … moeten open zijn voor uitbreiding, maar gesloten voor wijziging.”
+
+## Liskov substitution principle
+
+“objecten in een programma zouden vervangbaar moeten zijn door instanties van hun subtypes zonder dat de juiste werking van het programma beïnvloed wordt.”
+
+## Interface segregation principle
+
+“veel client-specifieke interfaces zijn beter dan één algemene interface.”
+
+## Dependency inversion principle
+
+"men zou afhankelijk moeten zijn van abstracties, niet van concrete implementaties"
+Dependency injection is een manier om dit principe toe te passen.
+
+bron: [Wikipedia](https://nl.wikipedia.org/wiki/SOLID)
